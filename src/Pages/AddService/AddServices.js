@@ -28,7 +28,7 @@ const AddServices = () => {
                         Description: data.Description,
                         image: imgData.data.url
                     }
-                    fetch("http://localhost:5500/food", {
+                    fetch("https://food-shop-server-amber.vercel.app/food", {
                         method: "POST", // or 'PUT'
                         headers: {
                             "Content-Type": "application/json",

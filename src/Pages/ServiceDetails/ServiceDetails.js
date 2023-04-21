@@ -19,7 +19,7 @@ const ServiceDetails = () => {
             email,
             description
         }
-        fetch("http://localhost:5500/review", {
+        fetch("https://food-shop-server-amber.vercel.app/review", {
             method: "POST", // or 'PUT'
             headers: {
                 "Content-Type": "application/json",

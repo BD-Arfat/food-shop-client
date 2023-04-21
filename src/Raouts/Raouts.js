@@ -31,7 +31,7 @@ export const routs = createBrowserRouter([
             {
                 path: '/serviceDetails/:id',
                 element: <PrivetRouts><ServiceDetails/></PrivetRouts>,
-                loader: ({params})=>fetch(`http://localhost:5500/food/${params.id}`)
+                loader: ({params})=>fetch(`https://food-shop-server-amber.vercel.app/food/${params.id}`)
             }
         ]
     },
