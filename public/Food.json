@@ -1,0 +1,65 @@
+[
+    {
+        "name" : "Chicken Birani",
+        "image" :"https://i.ibb.co/FnTy6xT/chicken-biryani.jpg",
+        "price" : 550,
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et aspernatur quis ea.",
+        "rating" : "220"
+    },
+    {
+        "name" : "Mutton Biryani",
+        "image" : "https://i.ibb.co/pQgw0Rr/mutton-biryani.jpg",
+        "price" : 600,
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et aspernatur quis ea.",
+        "rating" : "24"
+    },
+    {
+        "name" : "chicken fry",
+        "image" :"https://i.ibb.co/sPzMN84/chicken-fry.jpg",
+        "price" : 200,
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et aspernatur quis ea.",
+        "rating" : "200"
+    },
+    {
+        "name" : "mutton curry",
+        "image" : "https://i.ibb.co/DMVxqVF/mutton-curry.jpg",
+        "price" : 290,
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et aspernatur quis ea.",
+        "rating" : "100"
+    },
+    {
+        "name" : "chicken lollipop",
+        "image" : "https://i.ibb.co/WvWN718/chicken-lollipop.jpg",
+        "price" : 230,
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et aspernatur quis ea.",
+        "rating" : "50"
+    },
+    {
+        "name" : "Chili Chicken",
+        "image" : "https://i.ibb.co/Zxjzdrr/chili-1.jpg",
+        "price" : 150,
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et aspernatur quis ea.",
+        "rating" : "40"
+    },
+    {
+        "name" : "KFC Chicken",
+        "image" :"https://i.ibb.co/j6p1cZp/chili-1.jpg",
+        "price" : 150,
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et aspernatur quis ea.",
+        "rating" : "430"
+    },
+    {
+        "name" : "KFC full package",
+        "image" :"https://i.ibb.co/1qf71XL/food-2.jpg",
+        "price" : 400,
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et aspernatur quis ea.",
+        "rating" : "300"
+    },
+    {
+        "name" : "pizza",
+        "image" :"https://i.ibb.co/2tJSZBx/bargar-1.jpg",
+        "price" : 333,
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et aspernatur quis ea.",
+        "rating" : "10"
+    }
+]
