@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Footer = () => {
+    // start Footer
     return (
         <footer className="footer mt-32 p-20 bg-base-200 text-base-content">
             <div>
@@ -32,6 +33,7 @@ const Footer = () => {
             </div>
         </footer>
     );
+    // start Footer
 };
 
 export default Footer;
