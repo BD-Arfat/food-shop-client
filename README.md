@@ -10,7 +10,7 @@
 3) Authenticated User can Add products
 4) He/she can reviews and delete products
 5) He/she can make a Product
-6) He/she can change product status and delete from Dashbord
+6) He/she can change product status and delete from Dashboard
 7) This full stack site may be a mini e-commerce site.
 8) Here Firebase is used for login and I have used dark and light mood here. And fully responsive
 9) Payment method also available
