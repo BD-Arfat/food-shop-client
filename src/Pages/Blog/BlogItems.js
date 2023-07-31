@@ -3,6 +3,7 @@ import React from 'react';
 const BlogItems = ({ blog }) => {
     const { Question, Answer } = blog;
     return (
+        // it is card
         <div className="card w-full bg-primary text-primary-content">
             <div className="card-body">
                 <h2 className="card-title text-3xl font-bold text-warning">Question : {Question}</h2>
