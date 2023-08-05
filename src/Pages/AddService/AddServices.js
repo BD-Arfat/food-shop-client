@@ -47,8 +47,10 @@ const AddServices = () => {
 
     return (
         <div>
+        // form heading
             <h1 className='text-4xl font-bold text-center text-success mt-10'>You can also add your service if you want</h1>
             <div className=' w-96 mx-auto mt-10'>
+        // start form
                 <form onSubmit={handleSubmit(handleAddService)}>
                     <div className=''>
                         <label className="label">
